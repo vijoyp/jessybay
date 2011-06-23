@@ -1,9 +1,7 @@
-#summary One-sentence summary of this page.
+#summary Let us know what you would like to have.
 
 = Introduction =
-
-Add your content here.
-
+Please let us know what you would like to see as features, things added, implementation.
 
 = Details =
 
