@@ -1,5 +1,8 @@
 #summary Let us know what you would like to have.
 
+<wiki:toc max_depth="1" />
+
+----
 = store vacation setting  =
 Put store on vacation or off. <br>
 Custom message
