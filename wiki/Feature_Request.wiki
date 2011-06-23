@@ -1,3 +1,4 @@
+#featured
 #summary Let us know what you would like to have.
 
 = store vacation setting  =
