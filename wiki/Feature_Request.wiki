@@ -1,10 +1,5 @@
 #summary Let us know what you would like to have.
 
-= Introduction =
-Please let us know what you would like to see as features, things added, implementation.
-
-= Features =
-
-== store vacation setting  ==
-Put store on vacation or off
+= store vacation setting  =
+Put store on vacation or off. <br>
 Custom message
