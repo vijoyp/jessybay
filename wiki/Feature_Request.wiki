@@ -1,6 +1,6 @@
-#featured
 #summary Let us know what you would like to have.
 
 = store vacation setting  =
 Put store on vacation or off. <br>
 Custom message
+----
