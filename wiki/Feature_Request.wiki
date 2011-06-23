@@ -5,7 +5,6 @@ Please let us know what you would like to see as features, things added, impleme
 
 = Features =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== store vacation setting  ==
+Put store on vacation or off
+Custom message
