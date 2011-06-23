@@ -7,3 +7,9 @@
 Put store on vacation or off. <br>
 Custom message
 ----
+= Inventory =
+Synch with ebay inventory
+----
+= Sales =
+Auto record sales. <br>
+Search sales records
