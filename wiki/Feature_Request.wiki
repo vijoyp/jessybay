@@ -1,5 +1,5 @@
 #summary Let us know what you would like to have.
-Featured
+labelFeatured
 <wiki:toc max_depth="1" />
 
 ----
